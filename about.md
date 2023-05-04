@@ -9,7 +9,7 @@ I am deeply fascinated by innovative data analytic tools and technologies for re
 ### My Professional Life...
 I am an accomplished Data Analyst with more than nine years of professional experience in handling, managing and analyzing data for various projects in Malawi. I have a successful  proven track record in project monitoring and evaluation, analyzing large datasets, setting up automated data processes, designing and carrying out surveys, and monitoring and auditing data quality.
 
-Currently, I am working as Project Coordinator for the Local Organization Network for Tuberculosis Response (TB LON II) Project in Malawi. Before this position, I have worked as a Monitoring and Evaluation Specialist for TB LON II at DAPP Malawi and Plan International Malawi for more than six years. I have had an opportunity to work with some research institutions and independent research consultants in Malawi including Center for Agriculture Research and Development in Malawi (CARD), where I worked as Field Research Manager for about a year.
+Currently, I am working as Project Coordinator for the Local Organization Network for Tuberculosis Response (TB LON II) Project in Malawi. Before this position, I have worked as a Monitoring and Evaluation Specialist for TB LON II at DAPP Malawi and Plan International Malawi for more than six years. I have had an opportunity to work with some research institutions and independent research consultants including Center for Agriculture Research and Development (CARD), where I worked as Field Research Manager for about a year.
 
 I'm enthusiastic about Data Science, especially considering how quickly technology is changing the profession. I enjoy being a part of new technologies and trying out innovative solutions and automations. 
 
