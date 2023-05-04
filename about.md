@@ -14,9 +14,6 @@ Currently, I am working as Project Coordinator for the Local Organization Networ
 I'm enthusiastic about Data Science, especially considering how quickly technology is changing the profession. I enjoy being a part of new technologies and trying out innovative solutions and automations. 
 
 ### My Education
-
-
-#### Why Studying Data Science? 
 I studied **BSc in Agricultural Economics** at Lilongwe University of Agriculture and Natural Resources (LUANAR). During this time, I developed an interest in advancing my knowledge and skills in quantitative research methods and statistical modelling. Further to my interest, I researched the determinants of agricultural information access by smallholder farmers, and I used the Probit Model to estimate the parameters that determined access to information. 
 
 After my BSc, I undertook a **MA in Economics** at the University of Malawi, Chancellor College. From this course, I gained a deeper knowledge of the quantitative research methods, which I made use of in my thesis on the living standard of smallholder farm households in relation to the living income benchmark. My aim throughout this research project was to evaluate what it takes for a smallholder tea farm household in rural Malawi to live a ‘decent’ life by simulating various what-if scenarios to determine a basket of staple goods and services that provide optimum level of utility for the households, which can be reflected by the local perception of decency.
