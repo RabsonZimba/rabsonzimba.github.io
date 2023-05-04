@@ -2,7 +2,7 @@
 layout: post
 title: The Data Professional
 subtitle: MSc Data Science Module 1
-categories: Learning Module
+categories: Module
 tags: [Github]
 ---
 
