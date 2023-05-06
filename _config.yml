@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: RABSON ZIMBA
+title: **RABSON ZIMBA**
 email: rabsonzimba2@gmail.com
 author: RabsonZimba
 
@@ -40,7 +40,7 @@ author: RabsonZimba
 #   "Copyright (c) 2023-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2023 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "Unpublished Work (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
  I a Data analyst with nine years of professional experience in designing and implementing Monitoring and Evaluation Systems for programmes. I have an MA in Economics from the University of Malawi, and I am also studying towards an MSc in Data Science at the University of Essex. Currently, I am working as the Project Coordinator, and Monitoring and Evaluation Lead for Local Organization Network for Tuberculosis Response Project (TB LON II) Project in Malawi.  .
